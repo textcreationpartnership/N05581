@@ -116,8 +116,8 @@
    <text xml:lang="eng">
       <body>
          <div type="playbill">
-            <pb facs="tcp:0F686E07D71F01A0:007077_0000_0F6812B2A3731E78"/>
-            <pb facs="tcp:0F686E07D71F01A0:007077_0001_0F6812B34892C360"/>
+            <pb facs="unknown:007077_0000_0F6812B2A3731E78"/>
+            <pb facs="unknown:007077_0001_0F6812B34892C360"/>
             <opener>
                <dateline>New-York, <date>November 12, 1753.</date>
                </dateline>
